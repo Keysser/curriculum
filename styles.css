@@ -1,0 +1,31 @@
+body {
+    background-image: url('https://neko.works/upload/276.gif');
+    background-size: cover; /* Faz com que o GIF cubra toda a área */
+    background-repeat: no-repeat; /* Evita a repetição do GIF */
+    background-attachment: fixed; /* Fixa o plano de fundo enquanto a página rola */
+    background-position: center; /* Centraliza o GIF */
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+#profile-image {
+position: fixed;
+top: 20px;
+left: 20px;
+max-width: 100px;
+border-radius: 50%;
+}
+#main-content {
+    padding: 50px;
+}
